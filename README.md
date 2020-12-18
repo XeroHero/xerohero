@@ -14,7 +14,10 @@
   Leaving Certificate High Achiever (515/625 Points)
 * Bachelor of Computer Science at University College Dublin (2016-2020) with Erasmus Echange Programme at INSA Lyon (2018-2019) - 12 Month
   GPA: 3.4
-  Major in Software Engineering and Software Quality Assurance Methodologies
+  Major in Software Engineering and Software Quality Assurance Methodologies 
+  Final Year Thesis: "CO2 Aware - An app to Increase Awareness of day-to-day CO2 Emissions" - Code Repository [here](https://github.com/XeroHero/CO2Aware)
+    The app is currently available on the [Google Play Store](https://play.google.com/store/apps/details?id=example.devtips.senddatatoactivity)
+  
 
 # Career
 * **May 2017-September 2017** Junior Assistant Mobile Developer and Tester at Wyscout S.p.a (Chiavari, GE) - [Website](https://wyscout.com)
