@@ -35,7 +35,11 @@
   Also undertaking a "side project" to develop an in-house flavour of Android AOSP to run on comodity STBs for hospitals.
   
 
-## - 💬 Ask me about Quality Assurance, Android Development, Code Reviews and Software Testing
+## - 💬 Ask me about...
+* Quality Assurance
+* Android Development
+* Code Reviews
+* Software Testing
 
 ## - 📫 How to reach me: 
 * [E-Mail](mailto:Lorenzo.battilocchi@ucdconnect.ie)
