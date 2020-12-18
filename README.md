@@ -7,6 +7,14 @@
 - PiHole and DNS Technology
 - RabbitMQ
 - 3D Printing - Building a DIY Prusa i3 3D printer
+## Background
+# Education
+* Dunshaughlin Community College (2011-2016)
+** Junior Certificate Excellence in Modern Languages Award Winner (A+ in Italian, French and German)
+** Leaving Certificate High Achiever (515/625 Points)
+* Bachelor of Computer Science at University College Dublin (2016-2020)
+** GPA: 3.4
+** Major in Software Engineering and Software Quality Assurance Methodologies
 
 ## - 💬 Ask me about Quality Assurance and Software Testing
 
