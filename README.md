@@ -7,6 +7,7 @@
 - PiHole and DNS Technology
 - RabbitMQ
 - 3D Printing - Building a DIY Prusa i3 3D printer
+- Python Programming
 ## Background
 # Education
 * Dunshaughlin Community College (2011-2016)
