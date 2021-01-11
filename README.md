@@ -49,14 +49,6 @@
 * [E-Mail](mailto:Lorenzo.battilocchi@ucdconnect.ie)
 * [LinkedIn](https://www.linkedin.com/in/lorenzo-battilocchi-197888104/)
 * [Twitter](https://twitter.com/x3rohero)
-<!--
-**XeroHero/xerohero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ![Profile Views](https://profile-counter.glitch.me/xerohero/count.svg)
