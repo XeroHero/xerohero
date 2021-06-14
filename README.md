@@ -33,11 +33,12 @@
 * **September 2019-May 2020** Junior QA Engineer at Oneview Healthcare Plc (Blackrock, Co. Dublin, Ireland) - [Website](https://oneviewhealthcare.com)
 
   This was a part-time continuation of the internship during my fourth year of college. Worked approximately 20-25 hours each week as a QA Engineer. This experience greatly benefitted me during the course of my studies and during the development of my Final Year Project Deliverable (CO2 Aware, link below). 
-* **May 2020-Present** Junior Android QA Engineer and AOSP Developer at Oneview Healthcare Plc (Blackrock, Co. Dublin, Ireland) - [Website](https://oneviewhealthcare.com)
+* **May 2020-April 2021** Junior Android QA Engineer and AOSP Developer at Oneview Healthcare Plc (Blackrock, Co. Dublin, Ireland) - [Website](https://oneviewhealthcare.com)
 
   Joined as a full-time Junior QA Engineer after graduating from University College Dublin. Responsabilities include testing, regression, database and environment maintenance. 
   Also undertaking a "side project" to develop an in-house flavour of Android AOSP to run on comodity STBs for hospitals.
   
+ * **May 2021-Present** Quality Assurance Engineer I at Amazon.com Inc. (Alexa Devices Division - French)
 
 ## - 💬 Ask me about...
 * Quality Assurance
