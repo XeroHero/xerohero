@@ -39,7 +39,8 @@
   Also undertaking a "side project" to develop an in-house flavour of Android AOSP to run on comodity STBs for hospitals.
   
  * **May 2021-June 2022** Quality Assurance Engineer I at Amazon.com Inc. (Alexa Devices Division - French)
-   ** July 2022-Present**: Systems Development Engineer at Amazon.com Inc. (Alexa EMEA Tech Team)
+   
+   **July 2022-Present**: Systems Development Engineer at Amazon.com Inc. (Alexa EMEA Tech Team)
 
 ## - 💬 Ask me about...
 * Quality Assurance
