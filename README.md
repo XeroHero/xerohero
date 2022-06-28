@@ -1,6 +1,6 @@
 ### Hi there 👋
 ## 🔭 I’m currently 
-- Junior QA Android Engineer at Oneview Healthcare Plc (2019-Present)
+- SDET (in transition) at Amazon Devices Division - Shoreditch London Corp Office (LHR16)
 
 ## 🌱 I’m currently learning...
 - Algorithms and Data Structures through Java. Find out more about it on the associated [GitHub Repo](https://github.com/XeroHero/Common-Sense-Data-Structures-and-Algorithms).
