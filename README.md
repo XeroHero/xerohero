@@ -1,6 +1,6 @@
 ### Hi there 👋
 ## 🔭 I’m currently 
-- SDET (in transition) at Amazon Devices Division - Shoreditch London Corp Office (LHR16)
+- Systems Engineer at Amazon Devices Division - Shackelton Dublin Corp Office (DUB12)
 
 ## 🌱 I’m currently learning...
 - Algorithms and Data Structures through Java. Find out more about it on the associated [GitHub Repo](https://github.com/XeroHero/Common-Sense-Data-Structures-and-Algorithms).
@@ -40,7 +40,9 @@
   
  * **May 2021-June 2022** Quality Assurance Engineer I at Amazon.com Inc. (Alexa Devices Division - French)
    
-   **July 2022-Present**: Systems Development Engineer at Amazon.com Inc. (Alexa EMEA Tech Team)
+   **July 2022-September 2023**: Systems Development Engineer at Amazon.com Inc. (Alexa EMEA Tech Team)
+
+   **September 2023-Present**: Systems Engineer at Amazon.com Inc. (Alexa Test Lab, Dublin)
 
 ## - 💬 Ask me about...
 * Quality Assurance
