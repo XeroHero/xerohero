@@ -1,13 +1,7 @@
 ### Hi there 👋
-## 🔭 I’m currently 
-- Systems Engineer at Amazon Devices Division - Shackelton Dublin Corp Office (DUB12)
+## 🔭 I’m currently
+- Studying ATPL (Airline Transport Pilot License) at FlyBy Aviation Spain (https://www.flybyschool.com). Expected graduation date: October 2026
 
-## 🌱 I’m currently learning...
-- Algorithms and Data Structures through Java. Find out more about it on the associated [GitHub Repo](https://github.com/XeroHero/Common-Sense-Data-Structures-and-Algorithms).
-- PiHole and DNS Technology
-- RabbitMQ
-- 3D Printing - Building a DIY Prusa i3 3D printer
-- Python Programming
 ## Background
 # Education
 * Dunshaughlin Community College (2011-2016)
@@ -42,7 +36,7 @@
    
    **July 2022-September 2023**: Systems Development Engineer at Amazon.com Inc. (Alexa EMEA Tech Team)
 
-   **September 2023-Present**: Systems Engineer at Amazon.com Inc. (Alexa Test Lab, Dublin)
+   **September 2023-April 2025**: Systems Engineer at Amazon.com Inc. (Alexa Test Lab, Dublin)
 
 ## - 💬 Ask me about...
 * Quality Assurance
