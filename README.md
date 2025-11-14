@@ -50,4 +50,4 @@
 * [Twitter](https://twitter.com/x3rohero)
 
 
- ![Profile Views](https://profile-counter.glitch.me/xerohero/count.svg)
+ ![](https://komarev.com/ghpvc/?username=xerohero)
