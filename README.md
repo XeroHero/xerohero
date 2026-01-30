@@ -47,9 +47,10 @@
 * Software Testing
 
 ## - 📫 How to reach me: 
-* [E-Mail](mailto:Lorenzo.battilocchi@ucdconnect.ie)
+* [E-Mail](mailto:devqueries@xerohero.dev)
 * [LinkedIn](https://www.linkedin.com/in/lorenzo-battilocchi-197888104/)
 * [Twitter](https://twitter.com/x3rohero)
+* [YouTube](https://www.youtube.com/@ATPL4You)
 
 
  ![](https://komarev.com/ghpvc/?username=xerohero)
