@@ -1,6 +1,6 @@
 ### Hi there 👋
 ## 🔭 I’m currently
-- Studying ATPL (Airline Transport Pilot License) at FlyBy Aviation Spain (https://www.flybyschool.com). Expected graduation date: October 2026
+- Working as a Software Engineer at Engys S.p.a. in Trieste, Friuli-Venezia-Giulia
 
 ## Background
 # Education
@@ -37,6 +37,8 @@
    **July 2022-September 2023**: Systems Development Engineer at Amazon.com Inc. (Alexa EMEA Tech Team)
 
    **September 2023-April 2025**: Systems Engineer at Amazon.com Inc. (Alexa Test Lab, Dublin)
+
+  * **Feb 2026-Present** Java Software Developer at Engys, Trieste, Italy
 
 ## - 💬 Ask me about...
 * Quality Assurance
